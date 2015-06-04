@@ -14,7 +14,7 @@ Using OOC Schema to create a API for management via Azure API Management Portal.
 		Visual Studio (at least community edition)
 	</li>
 </ul>
-##Steps Taken##
+#Steps Taken#
 <ol>
 	<li>
 		From Visual Studio, Create a Cloud/Azure Mobile Services Solution
@@ -26,4 +26,4 @@ Using OOC Schema to create a API for management via Azure API Management Portal.
 		Seed sample data as necessary 
 	</li>
 
-<h1>Asp.NET Solution</h1>
+##Asp.NET Solution##
