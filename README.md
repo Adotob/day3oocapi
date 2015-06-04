@@ -22,8 +22,9 @@ Using OOC Schema to create a API for management via Azure API Management Portal.
 		<li>
 		Add your Custom Class representing the entity you are creating an API for
 	</li>	
-		<li>
+	<li>
 		Seed sample data as necessary 
 	</li>
+</ol>
 
 ##Asp.NET Solution##
